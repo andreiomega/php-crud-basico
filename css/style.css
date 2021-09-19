@@ -1,0 +1,24 @@
+.principal {
+	width: 80%;
+	max-width: 960px;
+	margin-top: 60px;
+}
+
+.form-botao {
+	text-align: right;
+}
+
+form {
+	margin-top: 20px;
+}
+
+input[name="id"] {
+	display: none;
+}
+
+.login {
+	border-radius: 10px;
+	border: 1px solid lightgray;
+	padding: 20px;
+	/* box-shadow: 10px 10px 10px #ccc; */
+}

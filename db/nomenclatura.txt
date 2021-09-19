@@ -1,0 +1,17 @@
+
+
+Id, classe e name (HTML)	nome-usuario
+Variável (PHP)			$nome_usuario
+Banco de Dados			nome_usuario
+
+
+
+nome_usuario		Banco de dados
+$nome_usuario		Variável (PHP)
+nomeUsuario		Variável JavaScript
+nome-usuario		Id, classe e name (HTML)
+
+
+senha			Banco de dados
+$senha			PHP
+senha			HTML
